@@ -1,0 +1,22 @@
+.inde{
+    
+   width: 800px;
+   height: 580px;
+   background-image: linear-gradient(rgb(0, 38, 255),rgb(0, 20, 131));
+   align-items: center;
+}
+.display{
+    display: flex;
+    justify-content: center;
+    
+}
+.mathan{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 230px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
+    
+}
